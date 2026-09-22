@@ -1,0 +1,26 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# requirements.txt
+# Project  : Credit Card Fraud & Sales Analytics
+# Author   : Janak
+# Python   : >= 3.9
+# Install  : pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Core data science
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualisation – notebook
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Visualisation – dashboard
+plotly>=5.15.0
+
+# Web dashboard
+streamlit>=1.28.0
+
+# Jupyter notebook support
+notebook>=7.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.0.0
