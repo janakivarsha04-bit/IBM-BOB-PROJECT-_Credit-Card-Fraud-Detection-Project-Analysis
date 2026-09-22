@@ -1,7 +1,8 @@
 # 💳 Credit Card Fraud & Sales Analytics
 
 **Author:** Janakivarshasree  
-**Dataset:** `credit_card_fraud_2026.csv` (20,000 transactions)  
+**Dataset:** [`credit_card_fraud_2026.csv`] (https://www.kaggle.com/datasets/uditjain13/credit-card-fraud-detection-2026
+) (20,000 transactions)  
 **Tools:** Python · Pandas · Matplotlib · Seaborn · Plotly · Streamlit
 
 ---
