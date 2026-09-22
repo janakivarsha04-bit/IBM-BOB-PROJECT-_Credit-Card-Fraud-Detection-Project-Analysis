@@ -5,6 +5,7 @@
 ::  Author   : Janakivarshasree
 ::  Dataset  : credit_card_fraud_2026.csv
 ::  Course   : Data Analytics with AI – IBM × BharathCares
+::  Dashboard URL: http://localhost:8501
 :: ============================================================
 
 title Credit Card Fraud ^& Sales Analytics - Janakivarshasree
